@@ -5,3 +5,6 @@ numpy
 scikit-learn
 matplotlib
 Pillow
+fastapi
+boto3
+python-multipart
